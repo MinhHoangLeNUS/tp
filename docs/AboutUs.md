@@ -21,11 +21,14 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 
 [[github](https://github.com/spencercdz)]
 
-### Minh Hoang
+### Johnny Doe
 
-<img src="images/minhhoanglenus.png" width="200px">
+<img src="images/johndoe.png" width="200px">
 
-[[github](https://github.com/MinhHoangLeNUS)]
+[[github](http://github.com/johndoe)] [[portfolio](team/johndoe.md)]
+
+* Role: Developer
+* Responsibilities: Data
 
 ### Jean Doe
 
